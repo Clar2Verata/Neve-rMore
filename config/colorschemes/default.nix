@@ -14,8 +14,8 @@
     colorschemes.enable = lib.mkEnableOption "Enable colorschemes module";
   };
   config = lib.mkIf config.colorschemes.enable {
-    base16.enable = lib.mkDefault true;
-    catppuccin.enable = lib.mkDefault false;
+    base16.enable = lib.mkDefault false;
+    catppuccin.enable = lib.mkDefault true;
     rose-pine.enable = lib.mkDefault false;
   };
 }
