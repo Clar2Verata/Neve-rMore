@@ -7,7 +7,7 @@
     colorschemes = {
       base16 = {
         enable = true;
-        colorscheme = "equilibrium-gray-light";
+        colorscheme = "woodland";
       };
     };
   };
