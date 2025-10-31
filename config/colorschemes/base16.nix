@@ -7,7 +7,7 @@
     colorschemes = {
       base16 = {
         enable = true;
-        colorscheme = "hopscotch";
+        colorscheme = "sakura";
       };
     };
   };
