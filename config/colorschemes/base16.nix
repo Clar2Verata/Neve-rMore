@@ -7,7 +7,7 @@
     colorschemes = {
       base16 = {
         enable = true;
-        colorscheme = "solarized";
+        colorscheme = "equilibrium-gray-light";
       };
     };
   };
